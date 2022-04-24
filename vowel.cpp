@@ -2,7 +2,6 @@
 using namespace std;
 int main()
 {
-
   char a ;
   
  cout<<"Enter The Character You Want Check Vowel or Not\n\n";
