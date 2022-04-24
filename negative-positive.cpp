@@ -5,7 +5,6 @@ int main()
  int a;
  cout<<"Enter The Number You Want To Check : \n";
  cin>>a;
-
  if(a<0)
  {
    cout<<"Number Is Negative:\n";
@@ -19,5 +18,4 @@ int main()
   cout<<"You Enter Zero :\n";
   }
  return 0;
-
 }
