@@ -8,5 +8,4 @@ int main()
   cout<<"\nOutpout is \n";
   cout<<num<<"  ,"<<num*num<<"  ,"<<num*num*num<<endl;
   return 0;
-
 }
