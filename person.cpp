@@ -8,5 +8,4 @@ int main()
      cout<<"Abbreviated Name: ";
      cout<<fname[0]<<"."<<" "<<mname[0]<<"."<<" ";  cout<<lname<<endl;
      return 0;
-
 }
