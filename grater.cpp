@@ -3,7 +3,6 @@ using namespace std;
 int main()
 {
     double num1, num2, num3;
-
     cout<<"Enter Three Numbers: ";
     cin>>num1>>num2>>num3;
 
