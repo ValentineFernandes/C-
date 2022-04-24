@@ -4,7 +4,6 @@ using namespace std;
 int main ()
 {
    int  first,sec;
-   
    cout<<"Enter The Value Of First and Second Variable \n\n";
    cin>>first>>sec;
 
