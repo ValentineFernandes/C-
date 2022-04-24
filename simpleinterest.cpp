@@ -3,7 +3,6 @@ using namespace std;
 int main()
 { 
    float amount, rate, time, si;
-
    cout<<"\nEnter Principal Amount : ";
    cin>>amount;
 
