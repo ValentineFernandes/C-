@@ -16,5 +16,4 @@ int main()
    cout<<"Character is Not Vowel\n\n";
  }
  return 0;
-
 }
